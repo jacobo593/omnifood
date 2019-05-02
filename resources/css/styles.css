@@ -287,6 +287,22 @@ header {
 .sticky .logo-black { display: block; }
 
 /*-------------------------------------*/
+/*Mobile nav*/
+/*-------------------------------------*/
+
+.mobile-nav-icon {
+    float: right;
+    margin-top: 30px;
+    cursor: pointer;
+    display: none;
+}
+
+.mobile-nav-icon .menu {
+    font-size: 200%;
+    color: #fff;
+}
+
+/*-------------------------------------*/
 /*Features*/
 /*-------------------------------------*/
 
